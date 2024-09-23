@@ -1,2 +1,5 @@
+# Ignore server.exe
 server.exe
-.vscode
+
+# Ignore the .vscode directory
+.vscode/
